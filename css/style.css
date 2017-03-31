@@ -152,3 +152,159 @@ a{
 	width: 60%;
 	border-radius: 25px;
 }
+
+@media screen and (max-width: 500px ){
+
+	body {
+	height:100%;
+	padding:0px;
+	margin:0px;
+	background-color: #ECF0F1;
+	}
+
+
+	header{
+		background-color: #2C3E50;
+		height: 120px;
+		margin: 0 auto;
+	}
+
+
+	#universidad{
+		position: fixed;
+		left: 10%;
+		background-color: #2C3E50;
+		width: 90%;
+		height: 15%;
+	}
+
+	#universidad h1{
+		margin: 0 auto;
+		font-size:440%;
+		text-align: left;
+		color: #ECF0F1;
+	}
+
+	#logo{
+		position: fixed;
+		background-color: #2C3E50;
+		width: 10%;
+		height: 15%;
+	}
+
+	#logo img{
+		position: relative;
+		width: 70%;
+		height: 70%;
+		left: 0%;
+		top: 5%;
+		height: auto;
+	}
+	
+
+	#titulo h1{
+		margin: auto;
+		margin top: 20px;
+		text-align: center;
+		font-size: 200%;
+	}	
+
+	#formulario {
+		margin: auto;
+		margin-left: 15px;
+		margin-right: 15px;
+		font-size: 12px;
+		background-color: #FF0000;
+		border-radius: 30px;
+		color:#ECF0F1;
+	}
+
+	.texto {
+		width: 30%;
+	}
+
+	.multiple {
+		width: 90%;
+	}
+
+	.select {
+		width: 40%;
+	}
+
+	.button {
+		margin-left: 46%;
+		margin-right: 46%;
+		margin-bottom: 15px;
+		width: 7%;
+		height: 30px;
+	}
+
+	#resultadosDiv {
+		background-color: #BDC3C7;
+		margin-top: 10px;
+	}
+
+	#instrucciones{
+		margin: 0 auto;
+		font-size: 150%;
+		text-decoration: underline; 
+		text-decoration: none;
+
+	}
+
+	a{
+		text-decoration:none;
+		color:#ECF0F1;
+	}
+
+	#presentacion{
+		background-color:#34495E;
+		height:70%;
+		width:90%;
+		position:fixed;
+		top:20%;
+		left:5%;
+		border-radius: 25px;
+	}
+
+
+	#texto{
+		width:93%;
+		height:15%;
+		margin-top: 1%;
+		margin-left: 3%;
+		color: #ECF0F1;
+		margin: 0 auto;
+	}
+
+	.examen {
+		margin-left: 46%;
+		margin-right: 46%;
+		width: 12%;
+		height: 30px;
+	}
+
+	#realizarExamen{
+		position: relative;
+		width:93%;
+		height:5%;
+		top: 1%;
+		margin-left: 3%;
+		color: #ECF0F1;
+		margin:0 auto;
+	}
+
+	#imagen{
+		position: relative;
+		top: 7%;
+		height: 70%;
+		width: 90%;
+	}
+
+	#imagen img {
+		margin-left: 25%;
+		height: 90%;
+		width: 60%;
+		border-radius: 25px;
+	}
+}
