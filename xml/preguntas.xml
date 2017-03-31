@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questions>
+ <question id='MVIJ_01'>
+  <type>text</type>
+  <title>¿Como se llama el burro que acompaña siempre a Shrek?</title>
+  <answer>asno</answer>
+ </question>
+ <question id='MVIJ_02'>
+    <type>multiple</type>
+    <title>¿Selecciona los años que no correspondan a la fecha de la primera entrega de Matrix?</title>
+    <option>1998</option>
+    <option>1999</option>
+    <option>2000</option>
+    <option>2001</option>
+    <answer>1998</answer>
+    <answer>2000</answer>
+    <answer>2001</answer>
+ </question>
+ <question id='MVIJ_03'>
+ 	<type>multiple</type>
+ 	<title>De los siguientes pecado capitales, ¿cuales aparecen en la película Seven?</title>
+ 	<option>Gula</option>
+    <option>Infidelidad</option>
+    <option>Lujuria</option>
+    <option>Orgullo</option>
+    <option>Robo</option>
+    <option>Pereza</option>
+    <answer>Gula</answer>
+    <answer>Lujuria</answer>
+    <answer>Pereza</answer>
+ </question>
+ <question id='MVIJ_04'>
+ 	<type>checkbox</type>
+ 	<title>En Harry Potter, ¿cómo se denomina el hechizo asesino?</title>
+ 	<option>Abada Kadabra</option>
+ 	<option>Avada Kedavra</option>
+ 	<option>Abra Kadabra</option>
+ 	<option>Abadada Kedabra</option>
+ 	<answer>avada kedavra</answer>
+ </question>
+ <question id='MVIJ_05'>
+ 	<type>radio</type>
+ 	<title>¿Que personaje le firma el libro a Harrison Ford en la tercera parte de Indiana Jones?</title>
+ 	<option>Hitler</option>
+ 	<option>Samuel L.Jackson</option>
+ 	<option>Brad Pitt</option>
+ 	<answer>Hitler</answer>
+ </question>
+ <question id='MVIJ_06'>
+ 	<type>select</type>
+ 	<title>¿De qué compañia es la película Las Cronicas de Narnia?</title>
+ 	<option>Walt Disney Pictures</option>
+ 	<option>Warners Brothers</option>
+ 	<option>Dreamworks</option>
+ 	<answer>Walt Disney Pictures</answer>
+ </question>
+ <question id='MVIJ_07'>
+ 	<type>checkbox</type>
+ 	<title>¿Selecciona los nombres que no correspondan al nombre de la pequeña protagonista en El Laberinto del Fauno?</title>
+ 	<option>Ofelia</option>
+ 	<option>Amalia</option>
+ 	<option>Teresa</option>
+ 	<option>Yolanda</option>
+ 	<answer>Amalia</answer>
+ 	<answer>Teresa</answer>
+ 	<answer>Yolanda</answer>
+ </question>
+ <question id='MVIJ_08'>
+ 	<type>text</type>
+ 	<title>En la pelicula Regreso al Futuro, ¿qué objeto funcionaba como máquina del tiempo?</title>
+ 	<answer>coche</answer>
+ </question>
+ <question id='MVIJ_09'>
+ 	<type>select</type>
+ 	<title>¿Quién es el director de Piratas del Caribe:La maldicion del perla negra?</title>
+ 	<option>Ted Elliott</option>
+ 	<option>Gore Verbinski</option>
+ 	<option>Hans Zimmer</option>
+ 	<option>Terry Rossio</option>
+ 	<answer>Gore Verbinski</answer>
+ </question>
+ <question id='MVIJ_10'>
+ 	<type>radio</type>
+ 	<title>Noche en el museo: ¿de qué trabajaba Larry Daley antes de su trabajo como guardia del museo?</title>
+ 	<option>contable</option>
+ 	<option>estaba desempleado</option>
+ 	<option>jefe editorial</option>
+ 	<option>limpia cristales</option>
+ 	<answer>estaba desempleado</answer>
+ </question>
+</questions>

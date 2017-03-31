@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Universidad Estatal de Florida - Examen cine</title>
+		<meta charset="utf-8">
+		<link rel="stylesheet" type="text/css" href="css/style.css">
+		<link rel="icon" type="image/png" href="img/logo.png" />
+		<script src="js/code.js"></script>
+	</head>
+	<body>
+		<header>
+			<div id="universidad">
+				<h1>Universidad de cine de las Islas Baleares</h1>	
+			</div>
+
+			<div id="logo">
+				<img src="img/logo.png">
+			</div>		
+		</header>
+		<br>
+		<div id="formulario">
+			<form id="myForm">
+			<br>
+			<br>
+				<ol>
+
+					<div id="titulo">
+					<h1>Examen - Historia del cine</h1>
+					</div>
+
+					<br>
+
+					<li><h2 id="pregunta1"></h2></li>
+					<input type="texto" name="answ_text_01" id="answ_text_01" class="texto">
+
+					<li><h2 id="pregunta2"></h2></li>
+					<select multiple id="multiple" class="multiple"></select>
+
+					<li><h2 id="pregunta3"></h2></li>
+					<select multiple id="multiple1" class="multiple"></select>
+
+					<li><h2 id="pregunta4"></h2></li>
+					<div id="checkboxDiv1" class="checkboxDiv"></div>
+							
+					<li><h2 id="pregunta5"></h2></li>
+					<div id="radioDiv1" class="radioDiv"></div>
+
+					<li><h2 id="pregunta6"></h2></li>
+					<select id="select1" class="select">
+						<option selected value="-1">Selecciona una...</option>
+					</select>
+
+					<li><h2 id="pregunta7"></h2></li>
+					<div id="checkboxDiv2" class="checkboxDiv"></div>
+
+					<li><h2 id="pregunta8"></h2></li>
+					<input type="texto" name="answ_text_02" id="answ_text_02" class="texto">
+
+					<li><h2 id="pregunta9"></h2></li>
+					<select id="select2" class="select">
+						<option selected value="-1">Selecciona una...</option>
+					</select>
+
+					<li><h2 id="pregunta10"></h2></li>
+					<div id="radioDiv2" class="radioDiv"></div>
+				</ol> 
+				<br>
+				<div id="botonera">
+					<input type='submit' id="submitButton" value='Corregir' class="button">
+					<br>
+					<input type="reset" id="resetButton" value="Reset" class="button">
+				</div>
+			</form>
+			<br>
+			<div id="resultadosDiv">
+			</div>
+		</div>
+	</body>
+</html>
